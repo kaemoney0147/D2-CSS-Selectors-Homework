@@ -26,7 +26,7 @@ color: black;
     color:brown;
 }
 .blog-post:nth-child(3) p:first-of-type a{
-color: red;
+color:red;
 }
 .blog-post:last-of-type li:nth-child(2){
     color:blueviolet
@@ -36,4 +36,7 @@ color: red;
 }
 .text-center a:last-of-type{
     color: darkgoldenrod;
+}
+.btn-outline-primary{
+    color: orange;
 }
